@@ -5,7 +5,7 @@
   "bugs": "https://github.com/apollographql/apollo-cli/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apollographql/apollo-cli.git"
+    "url": "git+https://github.com/scmp-contributor/apollo-tooling.git"
   },
   "license": "MIT",
   "author": "Apollo GraphQL <opensource@apollographql.com>",
