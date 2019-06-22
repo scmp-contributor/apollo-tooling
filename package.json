@@ -1,6 +1,7 @@
 {
   "name": "apollo-cli-monorepo",
   "private": true,
+  "version": "1.9.2",
   "homepage": "https://github.com/apollographql/apollo-cli",
   "bugs": "https://github.com/apollographql/apollo-cli/issues",
   "repository": {
